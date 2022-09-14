@@ -1,4 +1,4 @@
-# Guess my nmber
+# Guess my number
 
 The code for this app contains a bug.
 
